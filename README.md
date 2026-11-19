@@ -56,7 +56,7 @@ agente-tarefas-trello-adk/
 
 ### 2. Preparar o ambiente local
 ```bash
-git clone https://github.com/artuart-little/agente-tarefas-trello-adk.git
+git clone https://github.com/artuart-little/dio-dxc-desafio-agente-trello.git
 cd agente-tarefas-trello-adk
 
 python -m venv .venv
